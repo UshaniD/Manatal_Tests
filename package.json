@@ -1,0 +1,19 @@
+{
+  "name": "com.manatal.tests",
+  "version": "1.0.0",
+  "description": "This is a cypress test",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ushani De Mel",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.0",
+    "cypress-select-tests": "^1.7.1"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.6.2"
+  }
+}

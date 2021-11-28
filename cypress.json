@@ -1,0 +1,5 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://jb-app-frontend-staging.herokuapp.com",
+  "projectId": "9xt1d1"
+}
